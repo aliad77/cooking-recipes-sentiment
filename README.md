@@ -1,4 +1,4 @@
-# 🍳 Cooking Recipes Rating Based on Sentiment Analysis
+#  Cooking Recipes Rating Based on Sentiment Analysis
 
 
 A web-based recipe platform that uses Natural Language Processing (NLP) and sentiment analysis to evaluate user comments and generate reliable, sentiment-based recipe ratings. The system improves trust in recipe reviews by detecting fake reviews, translating multilingual comments, and flagging harmful content.
